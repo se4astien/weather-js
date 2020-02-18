@@ -1,4 +1,4 @@
-# Weather JS with Open Weather API
+# Weather JS with OpenWeather API
 
 Creation of a web app which displays the weather according to the selected city.
 
