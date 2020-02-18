@@ -2,11 +2,11 @@
 
 Creation of a web app which displays the weather according to the selected city.
 
-Manipulate the DOM (Document Object Model).
-
-Project build with pure JavaScript (No frameworks or libraries). 
-
 Use Bootstrap CSS for the front.
+Use fetch() method.
+
+Manipulate the DOM (Document Object Model).
+Project build with pure JavaScript (No frameworks or libraries). 
 
 
 ## What you can do
